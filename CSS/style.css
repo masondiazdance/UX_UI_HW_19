@@ -1,12 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
 
-#logo {
-    width: 110px;
-    height: auto;
-    object-fit: cover;
-    padding: 0px;
-}
-
 .nav-item{
     padding: 0 2rem 0 2rem;
 }
@@ -19,7 +12,6 @@ footer.ul {
     display: inline-block;
     vertical-align: top;
 }
-
 
 #portrait {
     width: 500px;
@@ -74,6 +66,7 @@ section.heroImg{
     padding: 250px 100px 100px 100px;
     flex-direction: row;
     margin: auto;
+    max-width: 1500px;
 }
 
 .flexContainer {
